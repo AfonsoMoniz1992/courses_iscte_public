@@ -6,8 +6,8 @@ assessments, and supporting references.
 
 ## Repository structure
 
-- `uncertainty_and_decision_making_(transitional_year)/` – Transitional year
-  edition of the Uncertainty and Decision Making course. The folder is organised
+- `decision_making_under_uncertainty_(transitional_year)/` – Transitional year
+  edition of the Decision Making Under Uncertainty course. The folder is organised
   into lecture slide decks, past assessments with solutions, statistical
   formulae and tables, and complementary study resources.
 
