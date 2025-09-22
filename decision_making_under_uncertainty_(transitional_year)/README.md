@@ -1,19 +1,18 @@
-# Uncertainty and Decision Making (Transitional Year)
+# Decision Making Under Uncertainty (Transitional Year)
 
-This folder hosts the transitional year edition of the **Uncertainty and
-Decision Making** course. It brings together all teaching resources that support
+This folder hosts the transitional year edition of the **Decision Making Under Uncertainty** course. It brings together all teaching resources that support
 lectures, guided practice, and independent study.
 
 ## Folder structure
 
-- `beamers_aulas/` – Slide decks used in class, including introductions to the
+- `classes_slides/` – Slide decks used in class, including introductions to the
   unit, hypothesis testing, confidence intervals, non-parametric tests, and
   linear regression.
-- `avaliacoes_anteriores/` – Previous assessments (tests and exams) with their
+- `previous_evaluations/` – Previous assessments (tests and exams) with their
   solutions. Helpful for revision and self-assessment.
-- `formularios_tabelas/` – Statistics formula sheets and tabulated reference
+- `tables_formulae/` – Statistics formulae sheets and tabulated reference
   values frequently consulted during exercises and assessments.
-- `materiais_adicionais/` – Supplementary materials such as exercise sheets,
+- `additional_exercises/` – Supplementary materials such as exercise sheets,
   worked solutions, SPSS guides, and planning documents for the course.
 
 ## Tips for use
