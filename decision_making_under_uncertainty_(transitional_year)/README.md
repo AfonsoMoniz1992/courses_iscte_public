@@ -12,7 +12,7 @@ lectures, guided practice, and independent study.
   solutions. Helpful for revision and self-assessment.
 - `tables_formulae/` – Statistics formulae sheets and tabulated reference
   values frequently consulted during exercises and assessments.
-- `additional_exercises/` – Supplementary materials such as exercise sheets,
+- `planned_additional_exercises/` – Planned and additional materials such as exercise sheets,
   worked solutions, SPSS guides, and planning documents for the course.
 
 ## Tips for use
